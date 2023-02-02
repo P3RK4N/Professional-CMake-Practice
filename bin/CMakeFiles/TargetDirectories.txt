@@ -1,0 +1,3 @@
+C:/Users/Perkan/Desktop/Professional-CMake-Practice/bin/CMakeFiles/MyExe.dir
+C:/Users/Perkan/Desktop/Professional-CMake-Practice/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Perkan/Desktop/Professional-CMake-Practice/bin/CMakeFiles/ZERO_CHECK.dir
