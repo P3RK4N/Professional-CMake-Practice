@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include <Utils.cpp>
+
 int main()
 {
 	std::cout << "Lana je glupa" << std::endl;
